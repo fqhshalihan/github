@@ -1,0 +1,7 @@
+Q:\git\kalkulatormk2\kalkulatormk2\bin\Debug\kalkulatormk2.exe.config
+Q:\git\kalkulatormk2\kalkulatormk2\bin\Debug\kalkulatormk2.exe
+Q:\git\kalkulatormk2\kalkulatormk2\bin\Debug\kalkulatormk2.pdb
+Q:\git\kalkulatormk2\kalkulatormk2\obj\Debug\kalkulatormk2.csprojAssemblyReference.cache
+Q:\git\kalkulatormk2\kalkulatormk2\obj\Debug\kalkulatormk2.csproj.CoreCompileInputs.cache
+Q:\git\kalkulatormk2\kalkulatormk2\obj\Debug\kalkulatormk2.exe
+Q:\git\kalkulatormk2\kalkulatormk2\obj\Debug\kalkulatormk2.pdb
